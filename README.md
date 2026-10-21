@@ -3,41 +3,53 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Srinivas%20Yarru&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Python%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" alt="Srinivas Yarru banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=I+build+LLM-powered+multi-agent+systems;RAG+pipelines+%C2%B7+FastAPI+%C2%B7+LangChain;Final-year+CSE+%7C+Google+Cloud+GenAI+Certified;Open+to+Generative+AI+Intern+%2F+AI+Engineer+roles" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=780&lines=B.Tech+CSE+2026+Graduate;I+build+multi-agent+LLM+systems+%26+RAG+pipelines;LangChain+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+GCP;Google+Cloud+Generative+AI+Certified;Open+to+Full-Time+%26+Internship+Roles" alt="Typing animation"/>
 </a>
 
 <p>
   <a href="https://webport-eight.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live-7C3AED?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://ai-based-automation.vercel.app/"><img src="https://img.shields.io/badge/🤖_AI_Automation_Demo-Live-0EA5E9?style=for-the-badge" alt="AI Automation Demo"/></a>
-  <a href="mailto:yarrusrinivas54@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/srinivas-yarru"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yarrusrinivas54@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=srinivas377&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Hi, I'm Srinivas Yarru
 
-I'm a **final-year Computer Science engineer** who builds, ships and deploys **LLM-powered products**, not just notebooks. My focus is **agentic AI**: multi-agent orchestration, RAG pipelines and the backend APIs that make them production-ready.
+I'm a **2026 Computer Science graduate** who builds and **deploys** LLM-powered products. My focus is **agentic AI**: multi-agent orchestration, RAG pipelines and the secure backend APIs that make them production-ready. I also build full-stack, from React frontends to FastAPI and Node.js backends.
 
-- 🤖 Building **multi-agent LLM systems** with LangChain, FastAPI and RAG
-- ⚡ Serving ML models over APIs, benchmarked at **250+ requests/minute**
-- 🔐 Security-minded backend design: **JWT, RBAC**, role-based access
-- 🌐 Comfortable full-stack: **React, Node.js, MongoDB** (MERN)
-- 🎓 **Google Cloud Generative AI** certified (2024)
-- 📚 Currently deepening: **Docker, Kubernetes, Apache Spark / PySpark, Kafka**
-- 🎯 **Looking for:** Generative AI Intern · AI Engineer · Agentic AI · Python / Full-Stack roles
+### 🎯 Hiring snapshot
+
+| | |
+|---|---|
+| **Looking for** | AI Engineer · Generative AI · Agentic AI · Python Developer · Full-Stack roles (full-time or internship) |
+| **Strongest at** | LangChain multi-agent systems · RAG · FastAPI model-serving APIs · React dashboards |
+| **Proof of work** | 5 AI/full-stack projects built, 2 live deployments, 250+ req/min API benchmark |
+| **Certified** | Google Cloud Generative AI (2024) |
+| **Education** | B.Tech CSE, Vignan University (2022 – 2026) |
+| **Location** | India · open to relocation and remote |
+| **Contact** | yarrusrinivas54@gmail.com |
 
 ---
 
-## 🚀 Live Projects & Portfolio
+## 🌟 Why work with me
 
-| | Link | What it is |
+- 🤖 **I ship, not just prototype.** My projects are deployed and live, so you can click and test them.
+- 🧩 **Agentic AI depth.** I've designed 4-agent pipelines with real-time streaming, not just single prompts.
+- 🔐 **Security-minded.** JWT authentication and role-based access control are standard in my backends.
+- ⚡ **Performance-aware.** I load-test and benchmark my APIs, and I cut model training time by ~30% by improving the feature pipeline.
+- 📚 **Fast learner.** I started 5 independent AI projects beyond coursework and I'm now learning Docker, Kubernetes, Spark and Kafka.
+
+---
+
+## 🚀 Live Projects
+
+| | Link | Description |
 |---|---|---|
-| 🌐 **Portfolio** | [webport-eight.vercel.app](https://webport-eight.vercel.app/) | My personal portfolio: projects, skills and background |
+| 🌐 **Portfolio** | [webport-eight.vercel.app](https://webport-eight.vercel.app/) | My personal portfolio with projects, skills and background |
 | 🤖 **AI Automation** | [ai-based-automation.vercel.app](https://ai-based-automation.vercel.app/) | Deployed AI-powered automation project, live demo |
 
 ---
@@ -79,70 +91,106 @@ I'm a **final-year Computer Science engineer** who builds, ships and deploys **L
 
 ---
 
-## 🛠️ Tech Stack
+![divider](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-**LLM & Agentic AI**
+---
+
+## 💻 Tech Stack
+
+### 🤖 LLM & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-0EA5E9?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge)
 
-**Languages · ML · Backend · Frontend · Data · Cloud**
+### 🐍 Languages & ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express,fastapi,flask,mongodb,mysql,html,css,gcp,docker,kubernetes,git,github,postman,selenium,vercel&perline=10" alt="Tech stack icons"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-| Area | Tools |
-|---|---|
-| **ML & NLP** | Scikit-learn, NLTK, TF-IDF, Logistic Regression, Naive Bayes, Pandas, NumPy |
-| **Backend & APIs** | FastAPI, Flask, REST APIs, JWT, RBAC, Node.js, Express |
-| **Cloud & DevOps** | Google Cloud Platform, GCP Serverless Functions, Docker, CI/CD, Git/GitHub |
-| **Testing** | Postman, Selenium WebDriver, API / Regression / Load Testing |
-| **Learning now** | Apache Spark / PySpark, Kubernetes, Kafka |
+### 🧠 Backend & Database
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Cloud, DevOps & Testing
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 📈 Currently Learning
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinivas377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas377&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=srinivas377&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+[![Srinivas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/srinivas377)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas377&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/srinivas377)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=srinivas377&theme=tokyonight&hide_border=true)](https://github.com/srinivas377)
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 - 🥇 Led a **4-member team** at a campus hackathon, delivering a full-stack AI app in **48 hours**, **top 10 finish**
 - 🎓 **Google Cloud Generative AI**, Google Cloud Skills Boost (Verified, 2024)
 - 🧪 **Python & Selenium Automation Testing**, industry workshop (40 hrs)
 - 🌐 **Modern Web Development**: frontend fundamentals, responsive design, API integration
 - 🤝 Coordinated **3 alumni networking events**, growing student–alumni connections by ~25%
-- 🚀 Built **5 independent AI projects** beyond coursework in NLP, GenAI and agentic systems
 
 ---
 
 ## 🎓 Education
 
-**B.Tech, Computer Science & Engineering**, Vignan University, Guntur (2022 – 2026) 
+**B.Tech, Computer Science & Engineering**, Vignan University, Guntur, Andhra Pradesh · **Graduated June 2026** · CGPA 7.32 / 10
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Work Together
 
-I'm looking for a **Generative AI Intern / AI Engineer** opportunity where I can build and evaluate enterprise LLM prototypes.
+I'm looking for my first full-time role or internship where I can build and ship AI-powered products. If you have an opening in **Generative AI, Agentic AI, Python or Full-Stack**, I'd love to talk.
 
 <div align="center">
 
-<a href="https://webport-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-webport--eight.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="mailto:yarrusrinivas54@gmail.com"><img src="https://img.shields.io/badge/Email-yarrusrinivas54@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/srinivas-yarru"><img src="https://img.shields.io/badge/LinkedIn-srinivas--yarru-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Phone-+91_97034_51766-22C55E?style=flat-square&logo=whatsapp&logoColor=white"/>
+<a href="https://webport-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-webport--eight.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:yarrusrinivas54@gmail.com"><img src="https://img.shields.io/badge/Email-yarrusrinivas54@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/srinivas-yarru](https://www.linkedin.com/in/srinivas-yarru-9277a3265/)"><img src="https://img.shields.io/badge/LinkedIn-srinivas--yarru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=srinivas377&icon=0&color=0" alt="Visitor count"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%" alt="footer"/>
 
