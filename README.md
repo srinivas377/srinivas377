@@ -30,7 +30,7 @@ I'm a **2026 Computer Science graduate** who builds and **deploys** LLM-powered 
 | **Proof of work** | 5 AI/full-stack projects built, 2 live deployments, 250+ req/min API benchmark |
 | **Certified** | Google Cloud Generative AI (2024) |
 | **Education** | B.Tech CSE, Vignan University (2022 – 2026) |
-| **Location** | India · open to relocation and remote |
+| **Location** | Hyderabad · open to relocation and remote |
 | **Contact** | yarrusrinivas54@gmail.com |
 
 ---
