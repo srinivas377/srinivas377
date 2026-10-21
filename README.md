@@ -30,7 +30,7 @@ I'm a **2026 Computer Science graduate** who builds and **deploys** LLM-powered 
 | **Proof of work** | 5 AI/full-stack projects built, 2 live deployments, 250+ req/min API benchmark |
 | **Certified** | Google Cloud Generative AI (2024) |
 | **Education** | B.Tech CSE, Vignan University (2022 – 2026) |
-| **Location** | Hyderabad · open to relocation and remote |
+| **Location** | India · open to relocation and remote |
 | **Contact** | yarrusrinivas54@gmail.com |
 
 ---
@@ -91,7 +91,7 @@ I'm a **2026 Computer Science graduate** who builds and **deploys** LLM-powered 
 
 ---
 
-![divider](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4" width="100%" alt="divider"/>
 
 ---
 
@@ -186,7 +186,7 @@ I'm looking for my first full-time role or internship where I can build and ship
 
 <a href="https://webport-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-webport--eight.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:yarrusrinivas54@gmail.com"><img src="https://img.shields.io/badge/Email-yarrusrinivas54@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/srinivas-yarru](https://www.linkedin.com/in/srinivas-yarru-9277a3265/)"><img src="https://img.shields.io/badge/LinkedIn-srinivas--yarru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/srinivas-yarru"><img src="https://img.shields.io/badge/LinkedIn-srinivas--yarru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
